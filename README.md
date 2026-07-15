@@ -21,7 +21,3 @@ This project is part of the Quantium Data Analytics Virtual Experience Program. 
 ### 3. Commercial Presentation (Task 3)
 * Synthesized technical findings into an executive-level slide deck using the Pyramid Principle.
 * Recommended a chain-wide rollout of the new layout and a reallocation of premium shelf space targeting the high-value demographic.
-
-## 📂 Repository Structure
-* `/Notebooks`: Contains the Python code for data preparation and A/B testing.
-* `/Reports`: Contains the final business presentation and summary memos.
